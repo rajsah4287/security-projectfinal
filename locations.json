@@ -1,0 +1,50 @@
+[
+   {
+      "name":"Weeding Package",
+      "imageurls":[
+         "https://images.pexels.com/photos/12614389/pexels-photo-12614389.jpeg?auto=compress&cs=tinysrgb&w=600"
+      ],
+      "rentperday":1500,
+      "type":"Non-Delux",
+      "currentbookings":[
+         
+      ],
+      "description":"Best for Weeding Package"
+   },
+   {
+      "name":"Events",
+      "imageurls":[
+         "https://images.pexels.com/photos/9605458/pexels-photo-9605458.jpeg?auto=compress&cs=tinysrgb&w=600"
+      ],
+      "rentperday":1500,
+      "type":"Delux",
+      "currentbookings":[
+         
+      ],
+      "description":"est For Events Shoot."
+   },
+   {
+      "name":"Fashion PAckage",
+      "imageurls":[
+         "https://images.pexels.com/photos/14650437/pexels-photo-14650437.jpeg?auto=compress&cs=tinysrgb&w=600"
+      ],
+      "rentperday":2000,
+      "type":"Non-Delux",
+      "currentbookings":[
+         
+      ],
+      "description":"Best for Fashion Shoot"
+   },
+   {
+      "name":"Sport Package",
+      "imageurls":[
+         "https://images.pexels.com/photos/15596957/pexels-photo-15596957.jpeg?auto=compress&cs=tinysrgb&w=600"
+      ],
+      "rentperday":1600,
+      "type":"Delux",
+      "currentbookings":[
+         
+      ],
+      "description":"Best Package For Sport Shoot"
+   }
+]

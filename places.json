@@ -1,0 +1,60 @@
+[
+   {
+      "name":"Weeding Shoot",
+      "imageurls":[
+         "https://www.holidify.com/images/cmsuploads/compressed/shutterstock_307777376_20190822150057_20190822161317.jpg"
+      ],
+      "rentperday":1500,
+      "currentbookings":[
+      ],
+      "description":"Best package For Weeding shoot ."
+   },
+   {
+      "name":"Events Shoot",
+      "imageurls":[
+         "https://images.pexels.com/photos/9411140/pexels-photo-9411140.jpeg?auto=compress&cs=tinysrgb&w=600"
+      ],
+      "rentperday":1800,
+      "currentbookings":[
+         
+      ],
+      "description":"Best Package For Events Shoot."
+     
+   },
+   {
+      "name":"Sport Shoot",
+      "imageurls":[
+         "https://www.holidify.com/images/cmsuploads/compressed/shutterstock_307777376_20190822150057_20190822161317.jpg"
+      ],
+      "rentperday":2000,
+
+      "currentbookings":[
+         
+      ],
+      "description":"Best package For Sport shoot ."  
+   },
+   {
+      "name":"Traveller Shoot",
+      "imageurls":[
+         "https://www.holidify.com/images/cmsuploads/compressed/shutterstock_307777376_20190822150057_20190822161317.jpg"
+      ],
+      "rentperday":2000,
+
+      "currentbookings":[
+         
+      ],
+      "description":"Best package For Taveller shoot ."  
+   },
+   {
+      "name":"Fashion Shoot",
+      "imageurls":[
+         "https://www.istockphoto.com/photo/fashion-in-new-york-city-gm186543936-27324413?phrase=high+fashion"
+      ],
+      "rentperday":2000,
+
+      "currentbookings":[
+         
+      ],
+      "description":"Best package For Fashion shoot ."  
+   }
+]
